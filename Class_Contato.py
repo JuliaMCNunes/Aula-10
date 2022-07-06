@@ -1,3 +1,6 @@
+import email
+
+
 class Contato:
     def __init__(self, cod, nome, telefone):
         self.cod = cod
